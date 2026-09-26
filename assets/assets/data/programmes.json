@@ -1,0 +1,57 @@
+{
+  "programmes": [
+    {
+      "name": "Business",
+      "subjects": [
+        "Accounting",
+        "Business Management",
+        "Economics",
+        "Elective Mathematics",
+        "English Language",
+        "French"
+      ]
+    },
+    {
+      "name": "General Arts",
+      "subjects": [
+        "Geography",
+        "History",
+        "French",
+        "Literature",
+        "Christian Religious Studies",
+        "Social Studies"
+      ]
+    },
+    {
+      "name": "General Science",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Elective Mathematics",
+        "English Language"
+      ]
+    },
+    {
+      "name": "Home Economics",
+      "subjects": [
+        "Food & Nutrition",
+        "Management in Living",
+        "Textiles",
+        "English Language",
+        "Mathematics"
+      ]
+    },
+    {
+      "name": "Visual and Performing Arts",
+      "subjects": [
+        "Graphic Design",
+        "Sculpture",
+        "Music",
+        "Dance",
+        "Studio Work",
+        "English Language"
+      ]
+    }
+  ]
+}

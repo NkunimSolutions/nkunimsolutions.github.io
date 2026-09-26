@@ -1,0 +1,808 @@
+{
+  "document": {
+    "title": "Code of Conduct for Students in the Pre-Tertiary Levels of Education in the Ghana Education Service",
+    "issuer": "Ghana Education Service (GES)",
+    "year": 2024,
+    "version": "Final"
+  },
+  "preamble": {
+    "id": "1.0",
+    "title": "Preamble",
+    "clauses": [
+      {
+        "id": "1.1",
+        "text": "The mission of Ghana Education Service (GES) is to ensure that all Ghanaian children of school-going age are provided with inclusive and equitable quality, formal education and training through effective management of resources to make education delivery relevant to the manpower needs of the nation."
+      },
+      {
+        "id": "1.2",
+        "text": "To achieve this mission, the Service is required, among other things, to ensure discipline in all schools to create an enabling environment that facilitates effective teaching and learning. The GES believes that discipline directly affects academic achievement and fosters good citizenship."
+      },
+      {
+        "id": "1.3",
+        "text": "Consequent to its mission, the Ghana Education Service Council has approved this Code to serve as a guide and reference material, so as to promote and maintain discipline at the Pre-Tertiary level of education, at the same time strictly conforming to the general rules and directives contained herein."
+      },
+      {
+        "id": "1.4",
+        "text": "The rules and regulations in the Code should not be regarded merely as a catalogue of offences, and penalties or restraint on students' freedoms. They are rather meant to ensure that the conditions for effective teaching and learning are created and maintained in the country's pre-tertiary educational institutions. It is also intended to inspire confidence among students and other stakeholders in the delivery of education and the assurance that the students of the school system are being trained to be responsible community members."
+      }
+    ]
+  },
+  "rules_of_conduct": {
+    "id": "2.0",
+    "title": "Rules of Conduct for Students",
+    "sections": [
+      {
+        "id": "2.1",
+        "title": "Conduct",
+        "description": "Conduct in this context (Code) is behaviour, attitude(s) and character that ought to be exhibited by a student within and outside the school compound. The standards of conduct generally required of any student of the Ghana Education Service should be good leadership, selflessness, honesty, respect for others, authority and general obedience to the school rules and regulations in this code.",
+        "rules": []
+      },
+      {
+        "id": "2.2",
+        "title": "Misconduct",
+        "description": "Any act or omission by a student that amounts to a demonstration of a behaviour, attitude or character that generally offends the provisions of the code.",
+        "rules": [
+          {
+            "id": "2.2a",
+            "text": "Any act or omission without reasonable excuse by a student or pupil that amounts to a demonstration of a behaviour, attitude or character that generally offends the provisions of the code or any unreasonable conduct that is otherwise likely to bring the school into disrepute shall constitute a misconduct. However, the setting forth of particular types of misconduct is not exhaustive."
+          },
+          {
+            "id": "2.2b",
+            "text": "Any act of misconduct or non-observance of any of the rules and regulations in this code shall lead to disciplinary action."
+          },
+          {
+            "id": "2.2c",
+            "text": "Any act of misconduct by a student not expressly mentioned in this Code or in any other regulation shall be dealt with by the Disciplinary Authority of the school as if it is part of the Code."
+          },
+          {
+            "id": "2.2d",
+            "text": "It is important to state that these rules should, however, not be interpreted or applied to prevent any student from freely expressing his/her views and that the conduct among students should not be affected in any way by acts done in good faith."
+          }
+        ]
+      },
+      {
+        "id": "2.3",
+        "title": "General Behaviour",
+        "description": "Students shall:",
+        "rules": [
+          {
+            "id": "2.3i",
+            "text": "Demonstrate courtesy and respect towards everyone. They must respect the elders of society, as Ghanaian custom demands."
+          },
+          {
+            "id": "2.3ii",
+            "text": "Internalise and exhibit gentleness, good manners and observe standard values of life."
+          },
+          {
+            "id": "2.3iii",
+            "text": "Respect the rights of individuals and be law-abiding."
+          },
+          {
+            "id": "2.3iv",
+            "text": "Perform all their responsibilities in the school, including personal hygiene and cleanliness of the surroundings, and maintain diligence at all times."
+          },
+          {
+            "id": "2.3v",
+            "text": "Maintain, protect and safeguard all school property at all times."
+          }
+        ]
+      },
+      {
+        "id": "2.4",
+        "title": "Flouting Lawful Authority",
+        "description": "Flouting lawful authority and directives of the Head, Staff and Prefects shall constitute a misconduct.",
+        "rules": []
+      },
+      {
+        "id": "2.5",
+        "title": "Absence from School",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.5a",
+            "text": "Reporting late to school on reopening or from approved breaks without reasonable excuse is a misconduct."
+          },
+          {
+            "id": "2.5b",
+            "text": "Failure to be present at any academic activity without reasonable cause is a misconduct."
+          },
+          {
+            "id": "2.5c",
+            "text": "Any excuse to be absent from school without formal communication by the parent/guardian to the school constitutes a misconduct."
+          }
+        ]
+      },
+      {
+        "id": "2.6",
+        "title": "Attendance at All School Assemblies",
+        "description": "Attendance at all school gatherings shall be compulsory for all students and good conduct shall be observed at such gatherings.",
+        "rules": []
+      },
+      {
+        "id": "2.7",
+        "title": "School/Class Attendance",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.7a",
+            "text": "Students shall not absent themselves from school without any reasonable excuse."
+          },
+          {
+            "id": "2.7b",
+            "text": "Students shall not absent themselves from classes without permission."
+          },
+          {
+            "id": "2.7c",
+            "text": "Boarders shall attend evening/night preps."
+          }
+        ]
+      },
+      {
+        "id": "2.8",
+        "title": "Loitering",
+        "description": "No student shall be found loitering at odd times and at odd places.",
+        "rules": []
+      },
+      {
+        "id": "2.9",
+        "title": "Academic Work",
+        "description": "Students shall participate in all academic activities and do all class exercises/assignments/homework without fail.",
+        "rules": []
+      },
+      {
+        "id": "2.10",
+        "title": "Examinations and Examination Malpractices",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.10a",
+            "text": "All examinations conducted by the school are compulsory for all students."
+          },
+          {
+            "id": "2.10b",
+            "text": "Failure to write examinations without a good reason constitutes a very serious offence."
+          },
+          {
+            "id": "2.10c",
+            "text": "Persistent refusal to write examinations shall constitute gross misconduct."
+          },
+          {
+            "id": "2.10d",
+            "text": "Examination malpractices are serious offences."
+          },
+          {
+            "id": "2.10e",
+            "text": "Any student who is registered for external examinations by the school but fails to attend classes for a cumulative ten (10) school days without a reasonable excuse constitutes a gross misconduct."
+          }
+        ]
+      },
+      {
+        "id": "2.11",
+        "title": "Breaking of Bounds",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.11a",
+            "text": "All students are required to keep within bounds at all times."
+          },
+          {
+            "id": "2.11b",
+            "text": "Students shall not leave the school compound without proper permission."
+          },
+          {
+            "id": "2.11c",
+            "text": "Staff residence shall be out of bounds to all students except for official purposes."
+          },
+          {
+            "id": "2.11d",
+            "text": "The school kitchen and Staff Common Room are out of bounds to students except for those students who have official responsibilities to discharge in such places."
+          }
+        ]
+      },
+      {
+        "id": "2.12",
+        "title": "Punctuality",
+        "description": "Students must always be punctual to all school gatherings and functions.",
+        "rules": []
+      },
+      {
+        "id": "2.13",
+        "title": "Improper Dressing",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.13a",
+            "text": "Students must dress neatly and wear prescribed attire and footwear always."
+          },
+          {
+            "id": "2.13b",
+            "text": "No alterations to school uniforms or dresses shall be allowed."
+          },
+          {
+            "id": "2.13c_i",
+            "text": "Unprescribed attire found in possession of a student is an offence."
+          },
+          {
+            "id": "2.13c_ii",
+            "text": "Using of unprescribed attire by a student is an offence."
+          },
+          {
+            "id": "2.13d",
+            "text": "Students should have decent haircut as prescribed by the school authorities. Hair should be clean, neat, modest and avoid extremes in styles and colours."
+          },
+          {
+            "id": "2.13e",
+            "text": "Men's hair should be neatly trimmed and beard clean shaven."
+          },
+          {
+            "id": "2.13f",
+            "text": "Students shall not wear chains, bangles, caps, braces. Wearing of spectacles shall be with medical prescription."
+          },
+          {
+            "id": "2.13g",
+            "text": "Bleaching of the skin by a student shall not be allowed."
+          }
+        ]
+      },
+      {
+        "id": "2.14",
+        "title": "Unprescribed Items",
+        "description": "Students are not allowed to bring the following items to school, unless approved by the school authorities or otherwise authorised by the GES.",
+        "rules": [
+          {
+            "id": "2.14i",
+            "text": "Electrical and electronic appliances e.g. kettle, rice cooker, blender, mobile phones, personal computers, headset, music box, pen drives, i-pods, etc."
+          },
+          {
+            "id": "2.14ii",
+            "text": "Candles and other combustible materials."
+          },
+          {
+            "id": "2.14iii",
+            "text": "Alcohol, cigarettes, Indian hemp (wee), and all other edible hard drugs."
+          }
+        ]
+      },
+      {
+        "id": "2.15",
+        "title": "Wilful Damage to School Property",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.15a",
+            "text": "Students must develop pride for their school and strive to keep school property in good condition to ensure long usage."
+          },
+          {
+            "id": "2.15b",
+            "text": "Students must take good care of locks, furniture, plumbing items, books, louvre blades, glass panels, electrical fitting, etc."
+          },
+          {
+            "id": "2.15c",
+            "text": "Water and electricity must not be wasted."
+          },
+          {
+            "id": "2.15d",
+            "text": "Unauthorised use or movement of school property is not allowed."
+          },
+          {
+            "id": "2.15e",
+            "text": "Scribbling on walls are prohibited."
+          },
+          {
+            "id": "2.15f",
+            "text": "Any wilful damage to school property is a misconduct."
+          },
+          {
+            "id": "2.15g",
+            "text": "No illegal connection of electricity and water systems."
+          },
+          {
+            "id": "2.15h",
+            "text": "Defacing school property shall constitute a misconduct."
+          }
+        ]
+      },
+      {
+        "id": "2.16",
+        "title": "Sexual Offences",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.16a",
+            "text": "It shall be a misconduct for any student to engage in sexual relations."
+          },
+          {
+            "id": "2.16b",
+            "text": "Interaction between students in obscure places at odd times constitutes an offence."
+          },
+          {
+            "id": "2.16c",
+            "text": "No student shall directly or indirectly do anything that may constitute sexual harassment of another student/staff."
+          },
+          {
+            "id": "2.16d",
+            "text": "A student shall not condone sexual offences in the school."
+          },
+          {
+            "id": "2.16e",
+            "text": "The GES guideline for the prevention of pregnancy among school girls and facilitation of Re-Entry into school after childbirth shall be applied to girls who become pregnant."
+          },
+          {
+            "id": "2.16f",
+            "text": "A victim of rape shall be counselled and guided accordingly."
+          },
+          {
+            "id": "2.16g",
+            "text": "Any student found guilty of rape constitutes gross misconduct."
+          },
+          {
+            "id": "2.16h",
+            "text": "It shall be a misconduct for any student to be involved in sexual relations with any member of staff. Any such misconduct shall not be waived with the reason that the sexual misconduct took place outside the school compound or with an alleged parental/guardian consent."
+          },
+          {
+            "id": "2.16i",
+            "text": "Any act of another student which has the potential of creating sexual implications for another student shall constitute a misconduct. For the avoidance of doubt, any act which sexually violates the body of the other person or forcibly makes a sexual bodily contact shall constitute a misconduct."
+          },
+          {
+            "id": "2.16j",
+            "text": "Any student who keeps another student from going home for any part of vacation or for any period that the student has sought to go home shall constitute a misconduct."
+          },
+          {
+            "id": "2.16k",
+            "text": "Any sexual conduct between students of the same sex shall constitute a misconduct."
+          }
+        ]
+      },
+      {
+        "id": "2.17",
+        "title": "Physical and Psychological Violence",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.17a",
+            "text": "A student shall not do anything to harm another student/staff physically or psychologically."
+          },
+          {
+            "id": "2.17b",
+            "text": "Fighting shall be regarded as an offence."
+          },
+          {
+            "id": "2.17c",
+            "text": "Assault on a fellow student or staff shall be an offence."
+          },
+          {
+            "id": "2.17d",
+            "text": "Jeering, whistling and disturbing during classes or official functions shall constitute an offence."
+          }
+        ]
+      },
+      {
+        "id": "2.18",
+        "title": "Causing Harm",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.18a",
+            "text": "Any act that intentionally or unlawfully causes harm to another person shall constitute a misconduct."
+          },
+          {
+            "id": "2.18b",
+            "text": "Any student who threatens any other person with the intent to put that person in fear or death shall constitute a misconduct."
+          },
+          {
+            "id": "2.18c",
+            "text": "Any act by a student which prevents another student/staff from access to healthcare when needed shall constitute a misconduct."
+          }
+        ]
+      },
+      {
+        "id": "2.19",
+        "title": "Religious Practice",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.19a",
+            "text": "No student shall compel any student into a religious practice or faith."
+          },
+          {
+            "id": "2.19b",
+            "text": "Any act that prevents or inhibits any other student from practising his/her religious beliefs shall constitute a misconduct."
+          },
+          {
+            "id": "2.19c",
+            "text": "Any student who unduly influences another student for initiation or involvement in any occult practice shall be guilty of a misconduct."
+          },
+          {
+            "id": "2.19d",
+            "text": "No student shall be involved in occultism."
+          }
+        ]
+      },
+      {
+        "id": "2.20",
+        "title": "Incitement to Riot, Rioting and Demonstration",
+        "description": "It shall be an offence for any student to be involved in incitement to riot, rioting and demonstration.",
+        "rules": []
+      },
+      {
+        "id": "2.21",
+        "title": "Gambling",
+        "description": "Gambling and all forms of games of chance are prohibited.",
+        "rules": []
+      },
+      {
+        "id": "2.22",
+        "title": "Possession / Circulation of Pornographic Material",
+        "description": "Any student who displays nude pictures of either himself or herself or any other student shall commit a misconduct.",
+        "rules": []
+      },
+      {
+        "id": "2.23",
+        "title": "Recording",
+        "description": "Any student who without authority records any other person, either video or audio and or publishes it shall commit a misconduct.",
+        "rules": []
+      },
+      {
+        "id": "2.24",
+        "title": "Other Offences",
+        "description": "The following acts also constitute punishable offences:",
+        "rules": [
+          {
+            "id": "2.24i",
+            "text": "Improper behaviour outside school that has potential to tarnish the image of the school / GES."
+          },
+          {
+            "id": "2.24ii",
+            "text": "If a student leaves the school compound to town or travels outside the school without permission or exeat."
+          },
+          {
+            "id": "2.24iii",
+            "text": "Anonymous letters with malicious intent/giving false information / impersonation/deliberate distortion of facts / character assassination / forgery of documents/plagiarism."
+          },
+          {
+            "id": "2.24iv",
+            "text": "Negligence of duty, including abuse of power by prefects."
+          },
+          {
+            "id": "2.24v",
+            "text": "Extortion."
+          },
+          {
+            "id": "2.24vi",
+            "text": "Seizure without lawful authority of any property of another student shall constitute a misconduct."
+          },
+          {
+            "id": "2.24vii",
+            "text": "Receiving visitors outside visiting hours contravenes general visiting regulations."
+          },
+          {
+            "id": "2.24viii",
+            "text": "Sending or eating food either from the dining hall, school canteen or home, to the classroom/dormitory is prohibited."
+          },
+          {
+            "id": "2.24ix",
+            "text": "Failure to perform house duties or complete reasonable punishment."
+          },
+          {
+            "id": "2.24x",
+            "text": "Bullying: Any act of violence that brings harm to students physically, verbally, psychologically or emotionally either perpetrated by peers or staff."
+          },
+          {
+            "id": "2.24xi",
+            "text": "Cyber bullying: intimidation via text messaging or on social media sites."
+          },
+          {
+            "id": "2.24xii",
+            "text": "Negligence of duty by prefects or abuse of power."
+          },
+          {
+            "id": "2.24xiii",
+            "text": "Contravening general visiting regulation."
+          },
+          {
+            "id": "2.24xiv",
+            "text": "Refusal to perform house duties."
+          },
+          {
+            "id": "2.24xv",
+            "text": "Hiding in the dormitory."
+          },
+          {
+            "id": "2.24xvi",
+            "text": "Belonging to a gang."
+          }
+        ]
+      },
+      {
+        "id": "2.25",
+        "title": "Weapons",
+        "description": null,
+        "rules": [
+          {
+            "id": "2.25a",
+            "text": "Any student found in possession of any weapon or a replica weapon shall constitute a misconduct."
+          },
+          {
+            "id": "2.25b",
+            "text": "Any student who threatens a colleague student or staff with any such weapon shall be guilty of a misconduct."
+          }
+        ]
+      }
+    ]
+  },
+  "sanctions": {
+    "id": "3.0",
+    "title": "Sanctions",
+    "general": [
+      {
+        "id": "3.1",
+        "text": "Any breach or non-observance of any section of the Rules of Conduct shall constitute misconduct for which the offender shall be liable to a disciplinary action."
+      },
+      {
+        "id": "3.2",
+        "text": "The essence of punishment in schools shall always be focussed on helping the student to reform, learn and promote cohesion at the school level."
+      },
+      {
+        "id": "3.3",
+        "text": "Deterring sanctions shall be applied in appropriate cases depending on the circumstances of each specific case and such sanctions as applied, shall be reasonable/consistent as much as possible."
+      }
+    ],
+    "guidelines": [
+      {
+        "item": "2.4",
+        "offence": "Flouting Lawful Authority",
+        "gravity_based": true,
+        "sanctions": [
+          "Caution and counselling",
+          "Manual work, demotion for prefects",
+          "Two weeks internal suspension",
+          "External suspension not more than two weeks for persistence",
+          "Signing of bond with parents as witnesses",
+          "Withdrawal from the boarding house",
+          "Dismissal for persistence"
+        ]
+      },
+      {
+        "item": "2.5",
+        "offence": "Absence from School",
+        "gravity_based": true,
+        "sanctions": [
+          "Caution and counselling",
+          "Manual work, demotion for prefects",
+          "Two weeks internal suspension",
+          "Signing of bond",
+          "Withdrawal from the boarding house"
+        ]
+      },
+      {
+        "item": "2.6",
+        "offence": "Refusal to attend assemblies",
+        "gravity_based": false,
+        "sanctions": [
+          "Caution and counselling",
+          "Signing of bond with parents as witnesses",
+          "Manual work"
+        ]
+      },
+      {
+        "item": "2.7",
+        "offence": "Refusal to attend classes (truancy)",
+        "gravity_based": false,
+        "sanctions": [
+          "Caution and counselling",
+          "Signing of bond with parents as witnesses",
+          "Manual work"
+        ]
+      },
+      {
+        "item": "2.8",
+        "offence": "Loitering",
+        "gravity_based": false,
+        "sanctions": [
+          "Caution and counselling",
+          "Signing of bond with parents as witnesses"
+        ]
+      },
+      {
+        "item": "2.9",
+        "offence": "Refusal to do academic work",
+        "gravity_based": false,
+        "sanctions": [
+          "Caution and counselling",
+          "Signing of bond with parents as witnesses",
+          "Manual work on campus"
+        ]
+      },
+      {
+        "item": "2.10",
+        "offence": "Refusal to write examinations and involvement in Examination Malpractices",
+        "gravity_based": false,
+        "sanctions": [
+          "Cancellation of examination paper",
+          "Repetition",
+          "Manual work"
+        ]
+      },
+      {
+        "item": "2.11",
+        "offence": "Breaking of Bounds",
+        "gravity_based": true,
+        "sanctions": [
+          "Caution and counselling",
+          "Manual work",
+          "Demotion for prefects",
+          "Two weeks internal suspension",
+          "Signing of bond",
+          "Withdrawal from the boarding house",
+          "Dismissal for persistence"
+        ]
+      },
+      {
+        "item": "2.12",
+        "offence": "Refusal to be Punctual",
+        "gravity_based": false,
+        "sanctions": [
+          "Caution and Counselling",
+          "Manual work",
+          "Signing of bond, if it persists"
+        ]
+      },
+      {
+        "item": "2.13",
+        "offence": "Improper Dressing",
+        "gravity_based": true,
+        "sanctions": [
+          "Caution and Counselling",
+          "Manual work",
+          "Demotion for prefects",
+          "Two weeks internal suspension",
+          "Shaving of beard or sideburns under supervision of housemaster",
+          "Seizure of altered school uniforms or dresses"
+        ]
+      },
+      {
+        "item": "2.14",
+        "offence": "Unprescribed Items/Gadgets",
+        "gravity_based": true,
+        "sanctions": [
+          "Facing the Disciplinary Committee",
+          "Confiscation of unprescribed items and gadgets",
+          "Signing of bond"
+        ]
+      },
+      {
+        "item": "2.15",
+        "offence": "Willful damage to School Property",
+        "gravity_based": false,
+        "sanctions": [
+          "Face Disciplinary Committee",
+          "Payment of twice the cost of items destroyed",
+          "Counselling and signing of bond by student with parents as witnesses"
+        ]
+      },
+      {
+        "item": "2.16",
+        "offence": "Sexual Offences",
+        "gravity_based": true,
+        "sanctions": [
+          "Report to the Police depending on the gravity of the offence while Disciplinary proceedings are instituted",
+          "Dismissal"
+        ]
+      },
+      {
+        "item": "2.17",
+        "offence": "Physical and Psychological Violence",
+        "gravity_based": false,
+        "sanctions": [
+          "Caution",
+          "Counselling",
+          "Manual work",
+          "One-week internal suspension",
+          "Signing of bond with parents",
+          "Dismissal for persistent offence"
+        ]
+      },
+      {
+        "item": "2.18",
+        "offence": "Causing Harm",
+        "gravity_based": true,
+        "sanctions": [
+          "Report to Police while disciplinary proceedings are instituted",
+          "Counselling",
+          "Openly read written apology",
+          "Written warning",
+          "Signing of bond by student with parents as witnesses",
+          "Dismissal depending on the harm"
+        ]
+      },
+      {
+        "item": "2.19",
+        "offence": "Religious Practice / Occultism",
+        "gravity_based": false,
+        "sanctions": [
+          "Dismissal for occultism",
+          "Facing Disciplinary Committee",
+          "Two weeks internal suspension and Counselling",
+          "External suspension",
+          "Withdrawal from the boarding house"
+        ]
+      },
+      {
+        "item": "2.20",
+        "offence": "Incitement to Riot, Rioting and Demonstration",
+        "gravity_based": false,
+        "sanctions": [
+          "Report to the Police",
+          "Disciplinary Proceedings instituted",
+          "Dismissal"
+        ]
+      },
+      {
+        "item": "2.21",
+        "offence": "Gambling",
+        "gravity_based": true,
+        "sanctions": [
+          "Caution and counselling",
+          "Manual work, Withdrawal from the boarding house",
+          "Two weeks internal suspension",
+          "External suspension not more than two weeks for persistence"
+        ]
+      },
+      {
+        "item": "2.22",
+        "offence": "Possession / Circulation of pornographic material",
+        "gravity_based": false,
+        "sanctions": [
+          "Caution and counselling",
+          "Signing of bond",
+          "Demotion for Prefects",
+          "Report to Police"
+        ]
+      },
+      {
+        "item": "2.23",
+        "offence": "Recording",
+        "gravity_based": true,
+        "sanctions": [
+          "Caution and counselling",
+          "Facing Disciplinary Committee",
+          "Manual work, Withdrawal from the boarding house",
+          "Two weeks internal suspension",
+          "External suspension not more than two weeks for persistence"
+        ]
+      },
+      {
+        "item": "2.24",
+        "offence": "Other Offences",
+        "gravity_based": true,
+        "notes": "Any of the underlisted sanctions may be applied depending on the offence",
+        "sanctions": [
+          "For forgery of documents and impersonation, report to police",
+          "Seizure of item",
+          "Written warning",
+          "Signing of Bond by student with parents as witnesses",
+          "Openly read written apology",
+          "Counselling and signing of bond",
+          "Payment of twice the cost of the item",
+          "Manual work",
+          "One-week internal suspension with manual work",
+          "Withdrawal from the boarding house",
+          "Demotion for prefects",
+          "Two weeks internal suspension",
+          "External suspension for not more than three weeks",
+          "Dismissal for persistence",
+          "Dismissal for belonging to a gang"
+        ]
+      },
+      {
+        "item": "2.25",
+        "offence": "Possession and use of weapons",
+        "gravity_based": false,
+        "sanctions": [
+          "Seizure of the weapon",
+          "Report to the Police/Dismissal"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "title": "2026/2027 Academic Calendar for Transitional SHS/SHTS/STEM Schools",
+  "forms": [
+    {
+      "form": 3,
+      "periods": [
+        {
+          "from": "18th September, 2026",
+          "to": "18th December, 2026",
+          "duration": "13 weeks",
+          "status": "In School"
+        },
+        {
+          "from": "19th December, 2026",
+          "to": "4th January, 2027",
+          "duration": "Christmas Break",
+          "status": "Out of School"
+        },
+        {
+          "from": "5th January, 2027",
+          "to": "18th June, 2027",
+          "duration": "24 weeks",
+          "status": "In School"
+        },
+        {
+          "from": "25th March, 2027",
+          "to": "30th March, 2027",
+          "duration": "Easter Break",
+          "status": "Out of School"
+        }
+      ],
+      "endOfYear": "19th June, 2027"
+    },
+    {
+      "form": 2,
+      "periods": [
+        {
+          "from": "16th November, 2026",
+          "to": "5th February, 2027",
+          "duration": "10 weeks",
+          "status": "In School"
+        },
+        {
+          "from": "19th December, 2026",
+          "to": "4th January, 2027",
+          "duration": "Christmas Break",
+          "status": "Out of School"
+        },
+        {
+          "from": "8th February, 2027",
+          "to": "5th March, 2027",
+          "duration": "4 weeks",
+          "status": "Online at Home"
+        },
+        {
+          "from": "6th March, 2027",
+          "to": "18th April, 2027",
+          "duration": "Break",
+          "status": "Out of School"
+        },
+        {
+          "from": "19th April, 2027",
+          "to": "27th August, 2027",
+          "duration": "19 weeks",
+          "status": "In School"
+        },
+        {
+          "from": "17th June, 2027",
+          "to": "20th June, 2027",
+          "duration": "Break",
+          "status": "Out of School"
+        }
+      ],
+      "endOfYear": "28th August, 2027"
+    },
+    {
+      "form": 1,
+      "periods": [
+        {
+          "from": "18th September, 2026",
+          "to": "13th November, 2026",
+          "duration": "8 weeks",
+          "status": "In School"
+        },
+        {
+          "from": "16th November, 2026",
+          "to": "18th December, 2026",
+          "duration": "5 weeks",
+          "status": "Online at Home"
+        },
+        {
+          "from": "19th December, 2026",
+          "to": "7th February, 2027",
+          "duration": "Christmas Break",
+          "status": "Out of School"
+        },
+        {
+          "from": "8th February, 2027",
+          "to": "16th April, 2027",
+          "duration": "10 weeks",
+          "status": "In School"
+        },
+        {
+          "from": "19th April, 2027",
+          "to": "14th May, 2027",
+          "duration": "4 weeks",
+          "status": "Online at Home"
+        },
+        {
+          "from": "15th May, 2027",
+          "to": "20th June, 2027",
+          "duration": "Break",
+          "status": "Out of School"
+        },
+        {
+          "from": "21st June, 2027",
+          "to": "27th August, 2027",
+          "duration": "10 weeks",
+          "status": "In School"
+        }
+      ],
+      "endOfYear": "28th August, 2027"
+    }
+  ],
+  "notes": [
+    "Christmas Break: 19th December 2026 – 4th January 2027 for Forms 2 & 3",
+    "Travelling Period: 3rd & 4th January 2027 for Forms 2 & 3",
+    "Easter Break: 25th – 30th March 2027 for Form 3",
+    "WASSCE: 6th April to 18th June 2027"
+  ]
+}

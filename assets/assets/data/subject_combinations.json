@@ -1,0 +1,129 @@
+{
+  "academicYear": "2025/2026",
+  "school": "Krobo Girls' Presbyterian SHS",
+  "region": "Eastern",
+  "district": "Lower Manya",
+  "learningAreas": [
+    {
+      "name": "Science",
+      "options": [
+        {
+          "label": "Option 1",
+          "core": ["English Language", "Mathematics", "Social Studies"],
+          "electives": ["Additional Maths", "Biology", "Physics", "Chemistry", "Business Mgt/Computing", "Literature In English"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 2",
+          "core": ["English Language", "Mathematics", "Social Studies"],
+          "electives": ["Additional Maths", "Biology", "Physics", "Chemistry", "Geography", "Literature In English"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 3",
+          "core": ["English Language", "Mathematics", "Social Studies"],
+          "electives": ["Additional Maths", "Biology", "Physics", "Chemistry", "E-PEH/AGRIC", "Literature In English"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 4",
+          "core": ["English Language", "Mathematics", "Social Studies"],
+          "electives": ["Additional Maths", "Biology", "Physics", "Chemistry", "French", "Literature In English"],
+          "physicalEducation": []
+        }
+      ]
+    },
+    {
+      "name": "General Arts",
+      "options": [
+        {
+          "label": "Option 1",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Additional Maths", "Business Management/Computing", "Economics", "Geography", "Government"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 2",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Additional Maths", "Business Mgt/French", "Economics", "Geography", "Government/Literature"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 3",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Agriculture/ICT", "Christian & Religious Studies", "French/Dangme", "History", "Literature In English"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 4",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Agriculture/Music", "Christian & Religious Studies", "French/Dangme", "History", "Literature In English"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 5",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Art & Design Foundation", "Economics", "Food & Nut./Clothing", "Geography", "Literature In English"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 6",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Add. Maths/F. Acct.", "Economics", "Geography", "Government/ICT", "Music"],
+          "physicalEducation": []
+        }
+      ]
+    },
+    {
+      "name": "Business",
+      "options": [
+        {
+          "label": "Option 1",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Accounting", "Add. Math", "Business Management", "ICT", "Economics"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 2",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Accounting", "Biology/Government", "Business Management", "Agriculture", "Food & Nutrition/Literature"],
+          "physicalEducation": []
+        }
+      ]
+    },
+    {
+      "name": "Home Economics",
+      "options": [
+        {
+          "label": "Option 1",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Biology", "Economics", "French/ADF", "Food & Nutrition", "Management In Living"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 2",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Art and Design Foundation", "Chemistry", "Clothing & Textiles", "Management In Living", "ICT/Literature"],
+          "physicalEducation": []
+        },
+        {
+          "label": "Option 3",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Chemistry/Biology", "Food & Nutrition", "Dangme/French", "Literature", "Management In Living"],
+          "physicalEducation": []
+        }
+      ]
+    },
+    {
+      "name": "Visual and Performing Arts",
+      "options": [
+        {
+          "label": "Option 1",
+          "core": ["English Language", "General Science", "Mathematics", "Social Studies"],
+          "electives": ["Art & Design Foundation", "Art & Design Studio", "Music", "ICT/French", "Geography/Add. Maths"],
+          "physicalEducation": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "clubs": [
+    {
+      "name": "Air Force Cadet Corps",
+      "description": "A uniformed group affiliated with the Ghana Air Force Cadet Corps. Members receive training in drill, leadership, citizenship, physical fitness, and patriotism.",
+      "details": "The Air Force Cadet Corps is a uniformed group affiliated with the Ghana Air Force Cadet Corps. Members receive training in drill, leadership, citizenship, physical fitness, and patriotism. Cadets develop discipline, teamwork, and a sense of national service through structured activities and ceremonies.",
+      "images": ["clubs/cadet.jpg", "clubs/cadet2.jpg", "clubs/cadet3.jpg", "clubs/cadet4.jpg"]
+    },
+    {
+      "name": "Girls' Brigade",
+      "description": "A uniformed Christian youth organisation with the motto 'Seek, Serve and Follow Christ.' Develops girls spiritually, physically, and educationally.",
+      "details": "A uniformed Christian youth organisation with the motto 'Seek, Serve and Follow Christ.' The Girls' Brigade develops girls spiritually, physically, and educationally through drill, leadership training, community service, and moral instruction. Members grow in faith and character while serving their communities.",
+      "images": ["clubs/brigade.jpg", "clubs/brigade 1.jpg", "clubs/brigade 3.jpg", "clubs/Brigade band.jpg", "clubs/brigade4.jpg", "clubs/brigade5.jpg", "clubs/brigade 6.jpg", "clubs/brigade band 2.jpg"]
+    },
+    {
+      "name": "Pentecost & Charismatic Students' Union (PECSU)",
+      "description": "A Christian faith-based fellowship for students affiliated with the Church of Pentecost and other charismatic churches.",
+      "details": "A Christian faith-based fellowship for students affiliated with the Church of Pentecost and other charismatic churches. Members engage in Bible study, prayer, worship, evangelism, and spiritual development. PECSU provides a vibrant community for students to grow in their faith.",
+      "images": []
+    },
+    {
+      "name": "Head Of State Awards",
+      "description": "A national youth development programme recognising achievements in service, recreation, skills, and expeditions.",
+      "details": "Also known as the Head of State Award Scheme (HOSA). Slogan: 'Developing young people — we are world ready.' The scheme helps in: (i) Skill development, (ii) Physical Recreation, (iii) Voluntary Service, (iv) Embarking on expeditions. A national youth development programme that recognises young people's achievements in community service, physical recreation, skills development, and adventurous journeys.",
+      "images": []
+    },
+    {
+      "name": "Krogiss Media Club",
+      "description": "Nurtures young journalists and communicators through school news reporting, writing, video production, and media literacy.",
+      "details": "Nurtures young journalists and communicators through school news reporting, writing, video production, and media literacy. Members learn content creation, photography, and digital storytelling — essential skills for the modern media landscape.",
+      "images": []
+    },
+    {
+      "name": "Precious Ladies' Club",
+      "description": "A Christian club for young ladies focused on chastity, purity, and godly character.",
+      "details": "Motto: 'Holiness, Righteousness our hallmark.'\n\nGreetings:\nPrecious Ladies — I am too beautiful to be immoral.\nPrecious Ladies — I dare to be different.\n\nThe club educates young girls of Krobo Girls SHS on the need for chastity, purity, holy living, and righteousness. It instils good moral and ethical values that please God as a Christian.\n\nMeeting Time: Saturdays, 6pm\nVenue: Krobo Girls Assembly Hall (venue may change if the need arises).",
+      "images": []
+    },
+    {
+      "name": "Nups-G & GHAMSU",
+      "description": "Ecumenical Christian fellowships promoting spiritual growth, discipleship, and fellowship among students.",
+      "details": "National Union of Presbyterian Students-Ghana (NUPS-G) and Ghana Methodist Students' Union (GHAMSU) — ecumenical Christian fellowships promoting spiritual growth, discipleship, and fellowship among students. Members engage in Bible study, prayer, worship, and community service.",
+      "images": []
+    },
+    {
+      "name": "Parliament",
+      "description": "Also known as KROGSPA — a student governance body for debating, leadership, and civic responsibility.",
+      "details": "Also known as: KROGSPA\nMotto: 'Leadership, Unity and Service.'\n\nFunctions:\n- Serves as a platform to represent the views of the people\n- Addresses issues faced by the school and how they can be solved\n- Gives students the honour of taking leadership positions\n- Promotes political participation\n\nA student governance body that simulates parliamentary proceedings, develops debating skills, leadership, civic responsibility, and provides a platform for students to discuss school and national issues.",
+      "images": []
+    },
+    {
+      "name": "Gunsa",
+      "description": "Ghana United Nations Students and Youth Association — promoting peace, human rights, and global citizenship.",
+      "details": "Ghana United Nations Students and Youth Association — a non-governmental youth association promoting peace, human rights, environmental awareness, and global citizenship through school-based activities. Members learn about international relations and advocacy.",
+      "images": []
+    },
+    {
+      "name": "French Club",
+      "description": "Promotes the French language and Francophone cultures through food tastings, film screenings, and competitions.",
+      "details": "Promotes the French language and Francophone cultures through food tastings, film screenings, cultural celebrations, conversations, and inter-school competitions. Open to all students interested in French.",
+      "images": []
+    },
+    {
+      "name": "SU (Scripture Union)",
+      "description": "An international interdenominational Christian organisation focused on Bible study, evangelism, and discipleship.",
+      "details": "An international interdenominational Christian organisation focused on Bible study, daily devotion, evangelism, discipleship, and student leadership development. SU provides a welcoming space for students to explore and deepen their faith.",
+      "images": []
+    },
+    {
+      "name": "Drama & Debating Club",
+      "description": "Develops public speaking, critical thinking, and performance skills through competitions and drama productions.",
+      "details": "Develops public speaking, critical thinking, and performance skills through inter-school and internal debate competitions, drama productions, and creative expression. Members build confidence and articulation through the arts.",
+      "images": []
+    },
+    {
+      "name": "Math Club",
+      "description": "Promotes interest in mathematics through problem-solving, quizzes, competitions, and collaborative learning.",
+      "details": "Promotes interest in mathematics through problem-solving activities, math quizzes, competitions, and collaborative learning. Members develop analytical thinking and numeracy skills.",
+      "images": []
+    },
+    {
+      "name": "Sanitation Club",
+      "description": "Advocates for environmental cleanliness and hygiene through campus clean-ups and awareness campaigns.",
+      "details": "Advocates for environmental cleanliness and hygiene through campus clean-ups, waste management awareness, tree planting, and sanitation campaigns within the school and community.",
+      "images": []
+    },
+    {
+      "name": "Health Club",
+      "description": "An educative club focused on health education, personal hygiene, and physical well-being.",
+      "details": "Slogan: 'Your health, our priority!'\n\nAn educative club that discusses one's health and condition of the body, personal hygiene practices, good diets, and excellent physical and mental well-being.\n\nOur Aim: To provide an environment that is free from litter and contagious diseases. We shall do so by providing bins at vantage points and hand sanitizer dispensers around the school. This will help to reduce the spread of bacteria and make every student healthy. We will also provide the sickbay with basic necessities like first aid kits, sanitizers, and many others.\n\nRemember to eat fruits and vegetables every day.",
+      "images": []
+    },
+    {
+      "name": "Science Club",
+      "description": "Exploring the universe through science — science fours, experiments, and STEM activities.",
+      "details": "Slogan: 'Unlocking the secrets of the Universe through Science.'\n\nClub greeting: Science Club! — Facts, nothing but facts!\n\nActivities:\n- Organising Science Fours where students of different schools and classes compete to present science projects\n- Engaging in leisure and recreational activities such as watching Sci-fi movies, treasure hunts, and games to help students release stress\n- Teaching students how to learn in order to perform better academically\n- Providing a safe space for students interested in science to share their ideas and talents\n- Helping students to assimilate what they learn in science-related subjects better\n\nClub Anthem:\nWe are ladies of Science\nAnd our Science is our backbone\nWe are unlocking the secrets of the universe through Science\nScience is our life\nIt is a fact, nothing but facts\nScience is our life\nWe must know\nIt is our right to spread the news to all the nations\nScience is life\nWe must know",
+      "images": []
+    },
+    {
+      "name": "Krogiss Xplicit Dance Crew",
+      "description": "The school's vibrant dance group showcasing talent through choreography and performances.",
+      "details": "The school's vibrant dance group that showcases talent through choreography, performances at school events, inter-school competitions, and cultural celebrations.",
+      "images": []
+    },
+    {
+      "name": "Interact Club",
+      "description": "A Rotary International service club developing leadership and community service skills.",
+      "details": "Part of the worldwide Interact programme sponsored by Rotary International. Interact clubs are established in Junior High Schools, Senior High Schools, and communities to develop young people through community service, friendship, and international understanding. In Ghana, each Interact club is sponsored and mentored by a local Rotary Club.\n\nMotto: Service Above Self\n\nMeaning of Interact: The word 'Interact' is derived from 'International Action,' reflecting the club's commitment to serving both local communities and promoting international friendship and cooperation.\n\nObjectives:\n- Foster friendship among young people from different cultures\n- Prepare members for future leadership roles in society\n- Develop leadership and teamwork skills\n\nCore Areas of Service:\n1. Community Service\n2. School Service\n3. Club Service\n4. International Service\n\nActivities:\n- Community cleanup exercises\n- Tree planting campaigns\n- Blood donation awareness\n- Health and sanitation campaigns\n- Educational outreach and mentoring\n- Fundraising for charitable causes\n\nBenefits of joining Interact:\n- Making lifelong friendships\n- Network with Rotarians and other young leaders locally and internationally\n- Build confidence and public speaking skills",
+      "images": []
+    },
+    {
+      "name": "AFS (American Field Service)",
+      "description": "A foreign cultural exchange programme promoting intercultural learning and global citizenship.",
+      "details": "The American Field Service is a foreign cultural exchange programme that deals with foreign exchange, donations, volunteerism, scholarships, and making global impact from every corner of the world.\n\nThe club is about connection and building bridges between different cultures around the globe. AFS aims at helping students develop leadership skills, communication skills, and empathy skills.\n\nThe club focuses on intercultural learning — it teaches students how to appreciate and value diverse cultural backgrounds. It also empowers youth to plan local initiatives and address societal challenges.\n\nMotto: Lead, Connect and Inspire",
+      "images": []
+    }
+  ]
+}

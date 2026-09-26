@@ -1,0 +1,53 @@
+{
+  "notices": [
+    {
+      "title": "Online Admission Registration",
+      "date": "2026-09-05",
+      "body": "This year's admission registration is strictly online. Please complete your application using the link below:\nhttps://entryloom.com",
+      "type": "academic",
+      "priority": "high"
+    },
+    {
+      "title": "PTA Meeting – Form 1 Parents",
+      "date": "2026-09-26",
+      "body": "There will be a PTA meeting for only Form 1 parents on Saturday, 26th September, 2026, at 9:00 am prompt.\nVenue: Cecilia Obenewa Hall",
+      "type": "event",
+      "priority": "high"
+    },
+    {
+      "title": "Reporting Day Dress Code",
+      "date": "2026-09-05",
+      "body": "On the reporting day, students should arrive in their flat black shoe and the red check attire.",
+      "type": "academic",
+      "priority": "high"
+    },
+    {
+      "title": "Forms A–D Requirements",
+      "date": "2026-09-05",
+      "body": "Download and print Forms A–D after registering online. Fill them in ink and submit on the reporting day.",
+      "type": "academic",
+      "priority": "high"
+    },
+    {
+      "title": "Medical Report Form (Form D)",
+      "date": "2026-09-05",
+      "body": "Form D is the Medical Report Form, which must be completed and endorsed by a recognized Medical Officer.",
+      "type": "academic",
+      "priority": "high"
+    },
+    {
+      "title": "Reporting Dates",
+      "date": "2026-09-05",
+      "body": "Reporting dates will be sent to parents via SMS and will vary by student. These spread-out dates are designed to prevent overcrowding and ensure that every parent is served efficiently. Please be aware that parents arriving on any day other than their assigned date will not be attended to. We kindly ask that you make arrangements accordingly.",
+      "type": "academic",
+      "priority": "high"
+    },
+    {
+      "title": "GES Approved Books on Reporting Day",
+      "date": "2026-09-07",
+      "body": "There are GES-approved books that parents can buy when they report to school. Please purchase the required textbooks and learning materials for your ward on the reporting day.",
+      "type": "academic",
+      "priority": "high"
+    }
+  ]
+}

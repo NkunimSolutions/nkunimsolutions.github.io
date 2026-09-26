@@ -1,0 +1,101 @@
+{
+  "title": "Board of Governance",
+  "children": [
+    {
+      "title": "Headmistress",
+      "subtitle": "Mrs. Bernice Noel Mensah-Akutteh",
+      "icon": "person",
+      "color": "#E53935",
+      "children": [
+        {
+          "title": "Assist. Head. Admin.",
+          "icon": "admin_panel_settings",
+          "color": "#8E24AA",
+          "children": [
+            {"title": "Tutors"},
+            {
+              "title": "Administrative Officers",
+              "children": [
+                {"title": "Students"},
+                {
+                  "title": "Clerical Staff",
+                  "children": [
+                    {"title": "Librarian"}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Assist. Head. Academic",
+          "icon": "school",
+          "color": "#1E88E5",
+          "children": [
+            {"title": "Heads of Departments"},
+            {"title": "Subject Tutors"}
+          ]
+        },
+        {
+          "title": "Assist. Head. Domestic",
+          "icon": "home",
+          "color": "#43A047",
+          "children": [
+            {
+              "title": "Senior House Mistress",
+              "children": [
+                {
+                  "title": "House Mistress",
+                  "children": [
+                    {"title": "School Prefects"},
+                    {"title": "House Captains"}
+                  ]
+                },
+                {"title": "Guidance & Counselling Officers"},
+                {
+                  "title": "Chief",
+                  "children": [
+                    {"title": "Dining Hall Committee"}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Accountant",
+          "icon": "account_balance",
+          "color": "#FB8C00",
+          "children": [
+            {"title": "Account Staff"},
+            {
+              "title": "Domestic Bursar",
+              "children": [
+                {
+                  "title": "Matrons",
+                  "children": [
+                    {
+                      "title": "Chief Cooks",
+                      "children": [
+                        {"title": "Cooks"}
+                      ]
+                    },
+                    {"title": "Drivers"},
+                    {"title": "Security"}
+                  ]
+                },
+                {
+                  "title": "Supply Officer",
+                  "children": [
+                    {"title": "General Workers"},
+                    {"title": "Pantry"}
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

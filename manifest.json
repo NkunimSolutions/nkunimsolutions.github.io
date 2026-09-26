@@ -1,0 +1,35 @@
+{
+    "name": "Krobo Girls SHS",
+    "short_name": "Krobo SHS",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2E5BFF",
+    "theme_color": "#2E5BFF",
+    "description": "The official stakeholder app for Krobo Girls Senior High School - news, notices, programmes, gallery, calendar and more.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
